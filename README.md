@@ -50,3 +50,11 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/TommyTokk/TommyTokk/output/snake.svg" alt="Snake animation" />
+
+###
+
