@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Tommy</h2>
+<h2 align="left">Hi 👋!</h2>
+<h2 align="left"> I'm Tommy</h2>
 
 - 💻 Computer science student in Pisa 
 - 🧬 Interested in computational biology and bioinformatics
